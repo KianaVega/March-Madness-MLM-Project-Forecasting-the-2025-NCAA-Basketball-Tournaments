@@ -1,4 +1,4 @@
-# March Madness SQL Project: Forecasting the 2025 NCAA Basketball Tournaments
+# March Madness MLM Project: Forecasting the 2025 NCAA Basketball Tournaments
 
 This project uses SQL to analyze historical NCAA basketball data and forecast the outcomes of the 2025 NCAA Basketball Tournaments (both men's and women's). The dataset is sourced from the Kaggle competition **March Machine Learning Mania 2025**, which provides comprehensive historical data on teams, games, seeds, and more.
 
